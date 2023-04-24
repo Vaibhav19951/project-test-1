@@ -6,8 +6,8 @@ import { Pokemon } from '../../Database'
     description: '',
     category: 'pokemon',
     usage: '',
-    cooldown: 25,
-    exp: 25,
+    cooldown: 15,
+    exp: 1105,
     aliases: ['c']
 })
 export default class command extends BaseCommand {
